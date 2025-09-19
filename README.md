@@ -1,2 +1,2 @@
 # TallerPreparacion
-Taler Preparaión par parcial
+Taller Preparación para el parcial
